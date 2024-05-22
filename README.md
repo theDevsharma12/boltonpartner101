@@ -2,13 +2,12 @@
 # boltonpartners.tech 🚀
 
 [![Live Site](https://img.shields.io/badge/Live%20Site-boltonpartners.tech-brightgreen)](https://boltonpartners.tech)
-[![License](https://img.shields.io/github/license/theDevsharma12/boltonpartners)](https://github.com/theDevsharma12/licence)
 
 ## 📋 Description
 
 **BoltonPartners.tech** is a platform designed for warehouse owners, store owners, and wholesalers. It allows them to register their businesses in just three simple steps and gain access to their dashboard or admin panel via [boltonpartners.tech/dashboard](https://boltonpartners.tech/dashboard) if they are already partners. The website provides detailed information on how Bolton and BoltonPartners can help grow their business.
 
-This project is built using **HTML**, **CSS**, and **JavaScript**. It features a chatbot backed by ChatGPT-4 and a cool UI designed on Figma.
+This project is built using **HTML**, **SCSS**, and **JavaScript**. It features a chatbot backed by ChatGPT-4 and a cool UI designed on Figma.
 
 ## 🛠️ Installation Instructions
 
@@ -25,7 +24,7 @@ This project is built using **HTML**, **CSS**, and **JavaScript**. It features a
 
 ## 📜 License
 
-This project is licensed under the terms specified in [this license](https://github.com/theDevsharma12/licence).
+This project is licensed under the terms specified in MIT License.
 
 ## 📞 Contact Information
 
@@ -40,7 +39,7 @@ This project is licensed under the terms specified in [this license](https://git
 ## 💻 Technologies Used
 
 - ![HTML](https://img.shields.io/badge/-HTML-orange)
-- ![CSS](https://img.shields.io/badge/-CSS-blue)
+- ![SCSS](https://img.shields.io/badge/-SCSS-pink)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 - ![ChatGPT-4](https://img.shields.io/badge/-ChatGPT--4-green)
 
